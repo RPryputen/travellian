@@ -4720,7 +4720,8 @@
                 observeParents: true,
                 breakpoints: {
                     320: {
-                        slidesPerView: 1
+                        slidesPerView: 1,
+                        autoHeight: true
                     },
                     769: {
                         slidesPerView: 2
